@@ -1,1 +1,1 @@
-# python_mini_projects
+All of my python mini projects
